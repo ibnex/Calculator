@@ -206,7 +206,7 @@ function Calculator() {
               onClick={back}
               className="rounded-full border-2 px-3 py-1 text-center m-1   shadow-xl shadow-gray-500 focus:bg-black focus:text-white focus:border-2-white focus:border-2"
             >
-              b
+              
             </button>
           </div>
         </div>
